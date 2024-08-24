@@ -90,7 +90,7 @@ In addition to the hours planned for lectures, tutorials, and exercises, supervi
 The following table presents the lecture plan:
 | Week | Date | Lecture |
 |--|--|--|
-| 01 | 30/08/2024 | Getting Started |
+| 01 | 30/08/2024 | [Getting Started](lecture01) |
 | 02 | 06/09/2024 | Introduction to Python Programming Language |
 | 03 | 13/09/2024 | Introduction to Linear Algebra |
 | 04 | 20/09/2024 | Data Preprocessing |
