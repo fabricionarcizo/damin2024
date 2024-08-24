@@ -1,0 +1,7 @@
+[core]
+    autostage = true
+    remote = download
+['remote "storage"']
+    url = s3://fabricionarcizo-damin-2024
+['remote "download"']
+    url = https://d3jhdw2ipgozea.cloudfront.net
