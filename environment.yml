@@ -1,0 +1,28 @@
+name: data-mining-course
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.4
+  - pip
+  - pip:
+      - dlib
+      - dvc[s3]
+      - easygui
+      - keras
+      - lightning
+      - librosa
+      - matplotlib
+      - mediapipe
+      - notebook
+      - numpy
+      - opencv-python
+      - pandas
+      - plotly
+      - pylint
+      - seaborn
+      - scikit-learn
+      - scipy
+      - tensorflow
+      - torch
