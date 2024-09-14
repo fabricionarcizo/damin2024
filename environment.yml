@@ -13,6 +13,7 @@ dependencies:
       - keras
       - lightning
       - librosa
+      - lmfit
       - matplotlib
       - mediapipe
       - notebook
@@ -24,5 +25,8 @@ dependencies:
       - seaborn
       - scikit-learn
       - scipy
+      - squarify
       - tensorflow
       - torch
+      - wordcloud
+      - ydata-profiling
