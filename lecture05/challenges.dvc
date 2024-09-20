@@ -1,0 +1,6 @@
+outs:
+- md5: c3efcfbb5519fe72f82f7b1173c7ed79.dir
+  size: 328481
+  nfiles: 4
+  hash: md5
+  path: challenges
