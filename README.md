@@ -95,7 +95,7 @@ The following table presents the lecture plan:
 | 03 | 13/09/2024 | [Introduction to Linear Algebra](lecture03) |
 | 04 | 20/09/2024 | [Data Preprocessing](lecture04) |
 | 05 | 27/09/2024 | [Data Exploration and Visualization](lecture05) |
-| 06 | 04/10/2024 | Classification: Basic Concepts |
+| 06 | 04/10/2024 | [Classification: Basic Concepts](lecture06) |
 | 07 | 11/10/2024 | Classification: Advanced Techniques |
 | 08 | 18/10/2024 | Regression Analysis |
 | 09 | 01/11/2024 | Clustering: Basic Concepts |
