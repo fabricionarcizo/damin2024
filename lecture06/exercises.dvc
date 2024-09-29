@@ -1,0 +1,6 @@
+outs:
+- md5: 66d86996eaa32b9dd0fb13fa5935a1b1.dir
+  size: 41295
+  nfiles: 3
+  hash: md5
+  path: exercises
