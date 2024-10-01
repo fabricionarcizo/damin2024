@@ -214,6 +214,9 @@ cython_debug/
 # ydata_profiling
 *.html
 
+# PyTorch Lightning
+lightning_logs/
+
 ### Python Patch ###
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
 poetry.toml

@@ -22,11 +22,16 @@ dependencies:
       - pandas
       - plotly
       - pylint
+      - pyqtgraph
+      - PyQt6
       - seaborn
       - scikit-learn
       - scipy
       - squarify
       - tensorflow
+      - tf2onnx
       - torch
+      - torchvision
+      - torchviz
       - wordcloud
       - ydata-profiling
