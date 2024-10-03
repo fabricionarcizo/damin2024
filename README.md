@@ -9,6 +9,8 @@ This repository contains the configuration files to set up the development envir
 ### Requirements
 
 - An active [Anaconda](https://anaconda.org), [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install), or [Miniforge](https://github.com/conda-forge/miniforge) (highly recommended) installation with the `bin` folder added to the *Environmental Variable* `$PATH` (Linux and macOS) or `%PATH%` (Microsoft Windows).
+- An integrated development environment with C/C++ compiler and libraries, such as [Xcode](https://developer.apple.com/xcode) for macOS users, [GCC](https://gcc.gnu.org) for Linux users, and [Visual Studio 2022](https://visualstudio.microsoft.com) for Microsoft Windows users.
+- [CMake](https://cmake.org), a cross-platform, open-source build system generator.
 - (Recommended) [Visual Studio Code](https://code.visualstudio.com) installed.
 
 ### Installation
@@ -32,6 +34,12 @@ Activate the created environment:
 conda activate data-mining-course
 ```
 
+Install the required Python packages and libraries:
+
+```[bash]
+poetry install --no-root
+```
+
 Finally, download the binary resource available in our private Amazon S3 bucket:
 
 ```[bash]
@@ -44,6 +52,7 @@ Before each lecture, you must download the newest binary files by executing the 
 
 ```[bash]
 conda env update -f environment.yml --prune
+poetry update
 ```
 
 ## Description
@@ -96,7 +105,7 @@ The following table presents the lecture plan:
 | 04 | 20/09/2024 | [Data Preprocessing](lecture04) |
 | 05 | 27/09/2024 | [Data Exploration and Visualization](lecture05) |
 | 06 | 04/10/2024 | [Classification: Basic Concepts](lecture06) |
-| 07 | 11/10/2024 | [Classification: Advanced Techniques](lecture07) |
+| 07 | 11/10/2024 | Classification: Advanced Techniques |
 | 08 | 18/10/2024 | Regression Analysis |
 | 09 | 01/11/2024 | Clustering: Basic Concepts |
 | 10 | 08/11/2024 | Clustering: Advanced Techniques |

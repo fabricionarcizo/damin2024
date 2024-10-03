@@ -4,34 +4,5 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.12.4
-  - pip
-  - pip:
-      - dlib
-      - dvc[s3]
-      - easygui
-      - keras
-      - lightning
-      - librosa
-      - lmfit
-      - matplotlib
-      - mediapipe
-      - notebook
-      - numpy
-      - opencv-python
-      - pandas
-      - plotly
-      - pylint
-      - pyqtgraph
-      - PyQt6
-      - seaborn
-      - scikit-learn
-      - scipy
-      - squarify
-      - tensorflow
-      - tf2onnx
-      - torch
-      - torchvision
-      - torchviz
-      - wordcloud
-      - ydata-profiling
+  - python=3.12.6
+  - poetry=1.8.3
