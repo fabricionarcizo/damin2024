@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "data-mining-course"
-version = "2024.1.1"
+version = "2024.1.2"
 description = "A Python development environment used to manage all libraries and packages used in the Data Mining KSD course."
 authors = ["Fabricio Batista Narcizo <narcizo@itu.dk>"]
 license = "License"
@@ -30,6 +30,7 @@ PyQt6 = "^6.7.1"
 seaborn = "^0.13.2"
 scikit-learn = "^1.5.2"
 scipy = "^1.13.1"
+sklearn-som = "^1.1.0"
 squarify = "^0.4.4"
 tensorflow = "^2.17.0"
 torch = "^2.4.1"
