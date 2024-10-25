@@ -1,0 +1,6 @@
+outs:
+- md5: ee8e78cf83bb6b04762e126481aebb7d.dir
+  size: 128864
+  nfiles: 4
+  hash: md5
+  path: themes
