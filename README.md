@@ -107,7 +107,7 @@ The following table presents the lecture plan:
 | 06 | 04/10/2024 | [Classification: Basic Concepts](lecture06) |
 | 07 | 11/10/2024 | [Classification: Advanced Techniques](lecture07) |
 | 08 | 18/10/2024 | [Regression Analysis](lecture08) |
-| 09 | 01/11/2024 | Clustering: Basic Concepts |
+| 09 | 01/11/2024 | [Clustering: Basic Concepts](lecture09) |
 | 10 | 08/11/2024 | Clustering: Advanced Techniques |
 | 11 | 15/11/2024 | Dimensionality Reduction |
 | 12 | 22/11/2024 | Anomaly Detection |
