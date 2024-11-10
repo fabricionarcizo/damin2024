@@ -108,8 +108,8 @@ The following table presents the lecture plan:
 | 07 | 11/10/2024 | [Classification: Advanced Techniques](lecture07) |
 | 08 | 18/10/2024 | [Regression Analysis](lecture08) |
 | 09 | 01/11/2024 | [Clustering: Basic Concepts](lecture09) |
-| 10 | 08/11/2024 | Clustering: Advanced Techniques |
-| 11 | 15/11/2024 | Dimensionality Reduction |
+| 10 | 08/11/2024 | [Clustering: Advanced Techniques](lecture10) |
+| 11 | 15/11/2024 | [Dimensionality Reduction](lecture11) |
 | 12 | 22/11/2024 | Anomaly Detection |
 | 13 | 29/11/2024 | Association Rule Mining |
 | 14 | 06/12/2024 | Final Exam Project and Course Evaluation |
