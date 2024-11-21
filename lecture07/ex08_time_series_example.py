@@ -50,9 +50,9 @@ win.setWindowTitle("pyqtgraph: Hand Tracking")
 
 # Initialize three curves for x, y, and z values.
 p1 = win.addPlot(title="Hand Landmark Movement (Index Finger Tip)")
-curve_x = p1.plot(pen=(255, 0, 0), name="X")
-curve_y = p1.plot(pen=(0, 255, 0), name="Y")
-curve_z = p1.plot(pen=(0, 0, 255), name="Z")
+curve_x = p1.plot(pen=pg.mkPen(color=(255, 0, 0), width=4), name="X")
+curve_y = p1.plot(pen=pg.mkPen(color=(0, 255, 0), width=4), name="Y")
+curve_z = p1.plot(pen=pg.mkPen(color=(0, 0, 255), width=4), name="Z")
 
 
 # Use deque for real-time data storage with a fixed max length.
